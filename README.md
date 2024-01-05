@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mehedi Hasan
-====================================================================================================================================
+Hi 👋 My name is Mehedi Hasan
+=============================
 
 Full Stack Developer
 --------------------
@@ -14,7 +14,7 @@ Passionate Full Stack Developer adept at building seamless, responsive web appli
 * ⚡  I like programming. I'm very big fan of javaScript
 
 <a href="https://www.github.com/mehedi-sohag" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mehedi-sohag?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/mehedi-sohag?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
 
 ### Skills
 
@@ -32,18 +32,10 @@ src="https://img.shields.io/github/followers/mehedi-sohag?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mehedi-sohag"><img src="https://github-readme-stats.vercel.app/api?username=mehedi-sohag&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="mehedi-sohag's GitHub stats" /></a>
+<a href="http://www.github.com/mehedi-sohag"><img src="https://github-readme-stats.vercel.app/api?username=mehedi-sohag&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="mehedi-sohag's GitHub stats" /></a>
 
-<a href="http://www.github.com/mehedi-sohag"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-sohag&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/mehedi-sohag"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-sohag&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/mehedi-sohag"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mehedi-sohag&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mehedi-sohag"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mehedi-sohag&bg_color=22272e&color=ffffff&line=f97316&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/mehedi-sohag" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-sohag&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/mehedi-sohag/mehedi-sohag.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedi-sohag&repo=mehedi-sohag.github.io&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mehedi-sohag/searching-algorithm-javascript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedi-sohag&repo=searching-algorithm-javascript&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/mehedi-sohag/sorting-algorithm-javascript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedi-sohag&repo=sorting-algorithm-javascript&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mehedi-sohag/firebase-todo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedi-sohag&repo=firebase-todo&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/mehedi-sohag" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-sohag&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
